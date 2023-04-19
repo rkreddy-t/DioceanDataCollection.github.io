@@ -26,7 +26,8 @@ For more information please checkout the ([https://appian.com/about/explore/over
 
 ## Architecture used 
 We had used layered architecture for application developement and it comprises on mainly 3 layers. 
-1)user layer
-2)processing layer
-3)Data layer
+
+* User layer
+- Processing layer
++ Data layer
 
